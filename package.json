@@ -1,0 +1,17 @@
+{
+  "name": "sidedapis",
+  "version": "1.0.0",
+  "description": "Wrapper for several apis",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "node .",
+    "watch": "tsc -w"
+  },
+  "keywords": ["api"],
+  "author": "upsided",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "type": "module"
+}
